@@ -93,7 +93,12 @@ iframe {
 .section-four {
     background-color: darkslateblue;
     height: 500px;
-
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    color: aliceblue;
 }
 
 /* section 5 media items */
