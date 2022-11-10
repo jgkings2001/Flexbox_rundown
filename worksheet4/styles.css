@@ -64,7 +64,9 @@ ul {
 .section-two {
     background-color: orangered;
     height: 700px;
-
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 /* section 3 youtube video */
@@ -72,9 +74,7 @@ ul {
 .section-three {
     background-color: lightcoral;
     height: 800px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
+    
 
 }
 
